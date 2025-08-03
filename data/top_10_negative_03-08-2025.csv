@@ -1,0 +1,11 @@
+id,rank,name,symbol,current_price,price_change_24h,change_symbol,market_cap,volume_24h,ath,image,date,last_updated,number,loser_rank
+beldex,163,Beldex,BDX,0.073841,-2.10872,DOWN,527882089,2902311.0,0.450785,https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631,03-08-2025,2025-08-03T19:09:11.204Z,163,1
+hash-2,90,Provenance Blockchain,HASH,0.02724046,-1.7746,DOWN,1294549922,5071.87,0.058737,https://coin-images.coingecko.com/coins/images/66154/large/Hastra_Icon.png?1748497203,03-08-2025,2025-08-03T19:09:13.172Z,90,2
+newton-project,153,AB,AB,0.00817182,-1.01919,DOWN,580294712,45961176.0,0.01727373,https://coin-images.coingecko.com/coins/images/4376/large/400%E6%96%B9.png?1740377493,03-08-2025,2025-08-03T19:09:05.872Z,153,3
+tokenize-xchange,186,Tokenize Xchange,TKX,5.25,-1.01731,DOWN,419952571,483429.0,50.43,https://coin-images.coingecko.com/coins/images/4984/large/TKX_-_Logo_-_RGB-15.png?1696505519,03-08-2025,2025-08-03T19:09:07.942Z,186,4
+ondo-us-dollar-yield,140,Ondo US Dollar Yield,USDY,1.081,-0.36036,DOWN,678863726,1243824.0,1.26,https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524,03-08-2025,2025-08-03T19:09:05.959Z,140,5
+mantle-bridged-usdt-mantle,187,Mantle Bridged USDT (Mantle),USDT,0.997864,-0.35505,DOWN,428709609,3092275.0,1.26,https://coin-images.coingecko.com/coins/images/35069/large/logo.png?1707291114,03-08-2025,2025-08-03T19:09:05.442Z,187,6
+usdb,201,USDB,USDB,0.995821,-0.22783,DOWN,404351953,805990.0,1.088,https://coin-images.coingecko.com/coins/images/35595/large/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427,03-08-2025,2025-08-03T19:09:08.736Z,201,7
+true-usd,172,TrueUSD,TUSD,0.997354,-0.07783,DOWN,492727762,19718921.0,1.62,https://coin-images.coingecko.com/coins/images/3449/large/tusd.png?1696504140,03-08-2025,2025-08-03T19:09:17.041Z,172,8
+leo-token,26,LEO Token,LEO,8.95,-0.0726,DOWN,8265039855,1808442.0,10.14,https://coin-images.coingecko.com/coins/images/8418/large/leo-token.png?1696508607,03-08-2025,2025-08-03T19:09:19.810Z,26,9
+savings-dai,181,Savings Dai,SDAI,1.16,-0.03027,DOWN,449842399,30058285.0,1.27,https://coin-images.coingecko.com/coins/images/32254/large/sdai.png?1697015278,03-08-2025,2025-08-03T19:09:11.307Z,181,10
