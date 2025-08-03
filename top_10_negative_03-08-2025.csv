@@ -1,0 +1,11 @@
+number,rank,loser_rank,name,symbol,current_price,price_change_24h,change_symbol,market_cap,volume_24h,ath,id,image,date,last_updated
+125,125,1,Kaia,KAIA,0.137576,-3.30107,DOWN,805664811,32391331,0.406698,kaia,https://coin-images.coingecko.com/coins/images/39901/large/KAIA.png?1724734368,03-08-2025,2025-08-03T14:09:05.955Z
+162,162,2,Beldex,BDX,0.074235,-2.83013,DOWN,530417842,2871769,0.450785,beldex,https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631,03-08-2025,2025-08-03T14:09:01.107Z
+200,200,3,Sun Token,SUN,0.02109584,-2.58816,DOWN,404004925,26374880,66.45,sun-token,https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png?1696512245,03-08-2025,2025-08-03T14:09:06.928Z
+164,164,4,Helium,HNT,2.79,-2.26341,DOWN,518822603,8531087,54.88,helium,https://coin-images.coingecko.com/coins/images/4284/large/helium_logo_use.png?1748092589,03-08-2025,2025-08-03T14:09:04.071Z
+111,111,5,Jupiter Staked SOL,JUPSOL,181.88,-1.9365,DOWN,967364090,4197530,309.67,jupiter-staked-sol,https://coin-images.coingecko.com/coins/images/37482/large/jupsol.png?1714473916,03-08-2025,2025-08-03T14:09:06.039Z
+3,3,6,XRP,XRP,2.88,-1.90799,DOWN,170584130388,6362783043,3.65,ripple,https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442,03-08-2025,2025-08-03T14:09:06.479Z
+217,217,7,Bybit Staked SOL,BBSOL,177.12,-1.87965,DOWN,350872316,1082680,308.6,bybit-staked-sol,https://coin-images.coingecko.com/coins/images/40095/large/400x400.png?1725628094,03-08-2025,2025-08-03T14:09:01.424Z
+6,6,8,Solana,SOL,161.38,-1.82554,DOWN,86860483244,4607447016,293.31,solana,https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756,03-08-2025,2025-08-03T14:09:06.771Z
+51,51,9,Jito Staked SOL,JITOSOL,196.98,-1.82362,DOWN,2554500337,36715634,339.52,jito-staked-sol,https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060,03-08-2025,2025-08-03T14:09:05.779Z
+71,71,10,Binance Staked SOL,BNSOL,172.06,-1.79475,DOWN,1710877893,8704524,297.96,binance-staked-sol,https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png?1725968367,03-08-2025,2025-08-03T14:09:01.084Z
